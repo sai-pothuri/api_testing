@@ -1,0 +1,46 @@
+{
+   "branch": [{
+      "branch_name" : "CIVIL",
+      "sem_no : "8",
+      "exam_type" : "External",
+      "subtype" : "Main"
+      }
+      ],
+    "subjects": [{
+       "subject_name": "CONSTRUCTION"
+       },
+       {
+       "subject_name": "balhdi"
+       }],
+    "branch+subjects": [{
+        "branch_name" : "CIVIL",
+        "sem_no : "8",
+        "exam_type" : "External",
+        "subtype" : "Main",
+        "subject_name": "balhdi"
+      }],
+      "dates" : [{
+        "date": "Wed, 23 Jun 2021",
+        "request_no": 17,
+        "subject_name": "balhdi"
+      },
+      {
+      "date": "Wed, 24 Jun 2020",
+        "request_no": 15,
+        "subject_name": "balhdi
+      }],
+      "request_no": [{
+        request_no": 17
+      }],
+      "image: [{
+        "image": "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",
+    "r_id": 37,
+    "request_no": 7,
+    "select_status": 0
+    }]
+    }
+      
+      
+    
+     
+      
